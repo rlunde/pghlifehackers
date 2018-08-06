@@ -6,9 +6,9 @@ Please join our [Meetup Group](https://www.meetup.com/Pittsburgh-Life-Hackers-Me
 
 #### August 2018 Meeting: Money Matters
 
-- *when*: Wednesday, August 29, 2018 @ 7:30pm EST
-- *where*: Panera Bread, 400 Penn Center Boulevard Pittsburgh, PA 15235
-- *signup page*: [Money Matters](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup/events/253206583/)
+- **when**: Wednesday, August 29, 2018 @ 7:30pm EST
+- **where**: Panera Bread, 400 Penn Center Boulevard Pittsburgh, PA 15235
+- **signup page**: [Money Matters](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup/events/253206583/)
 
 Money is important to everyone, but many of us have a love/hate relationship with it. We'd love to have more of it, and we worry about it a lot, but somehow we still don't get around to learning some simple things we can do about it.
 
