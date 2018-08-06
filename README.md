@@ -4,6 +4,8 @@
 
 Please join our [Meetup Group](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup/)
 
+___
+
 #### August 2018 Meeting: Money Matters
 
 - **when**: Wednesday, August 29, 2018 @ 7:30pm EST
@@ -43,6 +45,8 @@ The meeting room isn't obvious -- there's a whole other section of the restauran
 
 - from Brent:
     - [Ntellivest.com](https://www.ntellivest.com/)
+    
+___
 
 ### Facebook Page
 
