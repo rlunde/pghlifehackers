@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Welcome to Pittsburgh Life Hackers
 
-You can use the [editor on GitHub](https://github.com/rlunde/pghlifehackers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### The Meetup Group
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please join our [Meetup Group](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup/)
 
-### Markdown
+#### August 2018 Meeting: Money Matters
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Money is important to everyone, but many of us have a love/hate relationship with it. We'd love to have more of it, and we worry about it a lot, but somehow we still don't get around to learning some simple things we can do about it.
 
-```markdown
-Syntax highlighted code block
+Come to this Month's Life Hackers Meetup to hear some short talks by financial bloggers Meagan Taylor, Brynne Conroy, and Brent Sutherland.
 
-# Header 1
-## Header 2
-### Header 3
+Sign up here: [Money Matters](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup/events/253206583/)
 
-- Bulleted
-- List
+Meagan will start us off by talking about how she dug her own way out of debt in a very short period of time.
 
-1. Numbered
-2. List
+Having struggled with money through her early adult years, Meagan created Disney Mom at Home, which focuses on family finance and tips and tricks for travel, mainly to Disney. Since the majority of her followers are looking for tips and tricks on saving money and getting out of debt, she created FamilyFriendlyFinances.com, which is set to debut mid-August. Everyone has the power to overcome money problems, they just need realistic steps on how to do it!
 
-**Bold** and _Italic_ and `Code` text
+In addition to blogging, Meagan runs a successful travel agency, Fairytale Journeys by Meagan, and is also a Senior Business Office Manager for a Long Term Care facility. She holds a BA in Journalism from Indiana University of Pennsylvania.
 
-[Link](url) and ![Image](src)
-```
+Brynne is the owner, creator and primary content writer over at Femme Frugality. She has been writing about money matters for seven years, and has a book coming out about money management when you're facing oppression this fall. (You can pre-order it from Amazon now: The Feminist Financial Handbook.) Her site has been nominated for industry awards two years running.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Brent Sutherland will speak on achieving financial independence. Brent is a CERTIFIED FINANCIAL PLANNER™ and has worked in financial services for over 12 years. Currently, he owns a personal financial consulting firm, Ntellivest, that works to help individuals think outside the box and better plan for financial independence. He is an early retirement advocate, real estate investor, semi-minimalist, and fried chicken enthusiast.
 
-### Jekyll Themes
+Meagan, Brynne, and Brent will have short presentations, and will be available to answer your questions afterwards.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rlunde/pghlifehackers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The meeting will be in the meeting room at Panera Bread / Penn Center East: 400 Penn Center Boulevard Pittsburgh, PA 15235
+
+The meeting room isn't obvious -- there's a whole other section of the restaurant behind the cashiers to the left, and the meeting room is all the way at the back of that.
+
+#### Links from our speakers:
+
+- from Meagan:
+    - [Disney Mom At Home](http://disneymomathome.com/)
+
+- from Brynne:
+    - [Femme Frugality (blog)](https://femmefrugality.com/)
+    - [Feminist Financial Handbook (pre-order)](https://www.amazon.com/Feminist-Financial-Handbook-Modern-Wealthy-ebook/dp/B07BWKF498)
+
+- from Brent:
+    - [Ntellivest.com](https://www.ntellivest.com/)
+
+### Facebook Page
+
+Our Facebook Page is [pghlifehackers](https://www.facebook.com/pghlifehackers/)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Our current organizer is [Ron Lunde](rlunde+pghlh@gmail.com)
+
