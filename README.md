@@ -6,6 +6,10 @@ Please join our [Meetup Group](https://www.meetup.com/Pittsburgh-Life-Hackers-Me
 
 #### August 2018 Meeting: Money Matters
 
+- *when*: Wednesday, August 29, 2018 @ 7:30pm EST
+- *where*: Panera Bread, 400 Penn Center Boulevard Pittsburgh, PA 15235
+- *signup page*: [Money Matters](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup/events/253206583/)
+
 Money is important to everyone, but many of us have a love/hate relationship with it. We'd love to have more of it, and we worry about it a lot, but somehow we still don't get around to learning some simple things we can do about it.
 
 Come to this Month's Life Hackers Meetup to hear some short talks by financial bloggers Meagan Taylor, Brynne Conroy, and Brent Sutherland.
@@ -46,5 +50,5 @@ Our Facebook Page is [pghlifehackers](https://www.facebook.com/pghlifehackers/)
 
 ### Support or Contact
 
-Our current organizer is [Ron Lunde](rlunde+pghlh@gmail.com)
+Our current organizer is [Ron Lunde](mailto:rlunde+pghlh@gmail.com)
 
