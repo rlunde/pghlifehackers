@@ -58,4 +58,4 @@ Our current organizer is [Ron Lunde](mailto:rlunde+pghlh@gmail.com)
 
 ### About
 
-[[About Pittsburgh Life Hackers|about]]
+[About Pittsburgh Life Hackers](about.md)
