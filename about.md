@@ -28,3 +28,19 @@ Our Facebook Page is [pghlifehackers](https://www.facebook.com/pghlifehackers/)
 
 Our current organizer is [Ron Lunde](rlunde+pghlh@gmail.com)
 
+### A Personal History of Pittsburgh Life Hackers
+
+The Pittsburgh Life Hackers Meetup group was originally called the Pittsburgh Self-Improvement Meetup, and was running for years before I (Ron) ever joined. Unfortunately, after the first meetup I went to (I was the only one there besides the organizer at the time, Jack), I received a notice from Meetup.com that the group was shutting down unless someone else stepped up as organizer.
+
+I was very disappointed. I'd moved to Pittsburgh a couple of years earlier, and thought
+meetups might be a good way to meet interesting people. Since I'm writing a novel currently
+that I call "a self-help thriller" I thought a self-improvement group might give me a chance
+to talk to people about what they thought was cool or interesting.
+
+So I took over as organizer, hoping to eventually find one or two other people who might help with that.
+
+#### Disclaimer
+
+- Conflicts of Interest: None
+
+I'm not trying to sell anything to anyone. So far, I've paid all the fees for the meetup group myself (about $180 a year).
