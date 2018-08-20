@@ -12,7 +12,7 @@ ___
 - **where**: Panera Bread, 400 Penn Center Boulevard Pittsburgh, PA 15235
 - **signup page**: [Money Matters](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup/events/253206583/)
 
-Money is important to everyone, but many of us have a love/hate relationship with it. We'd love to have more of it, and we worry about it a lot, but somehow we still don't get around to learning some simple things we can do about it.
+Money is important to everyone, but many of us have a complex relationship with it. We'd love to have more of it, and we worry about it a lot, but somehow we still don't get around to learning some simple things we can do about it.
 
 Come to this Month's Life Hackers Meetup to hear some short talks by financial bloggers Meagan Taylor, Brynne Conroy, and Brent Sutherland.
 
@@ -45,6 +45,10 @@ The meeting room isn't obvious -- there's a whole other section of the restauran
 
 - from Brent:
     - [Ntellivest.com](https://www.ntellivest.com/)
+
+#### Do You Have A Favorite Book on Money Matters?
+
+If you have a book you like, please [enter it here](https://www.surveymonkey.com/r/BP73BWK)
     
 ___
 
