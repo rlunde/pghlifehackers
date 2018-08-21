@@ -12,7 +12,7 @@ ___
 - **where**: Panera Bread, 400 Penn Center Boulevard Pittsburgh, PA 15235
 - **signup page**: [Money Matters](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup/events/253206583/)
 
-Money is important to everyone, but many of us have a love/hate relationship with it. We'd love to have more of it, and we worry about it a lot, but somehow we still don't get around to learning some simple things we can do about it.
+Money is important to everyone, but many of us have a complex relationship with it. We'd love to have more of it, and we worry about it a lot, but somehow we still don't get around to learning some simple things we can do about it.
 
 Come to this Month's Life Hackers Meetup to hear some short talks by financial bloggers Meagan Taylor, Brynne Conroy, and Brent Sutherland.
 
@@ -32,7 +32,11 @@ Meagan, Brynne, and Brent will have short presentations, and will be available t
 
 The meeting will be in the meeting room at Panera Bread / Penn Center East: 400 Penn Center Boulevard Pittsburgh, PA 15235
 
-The meeting room isn't obvious -- there's a whole other section of the restaurant behind the cashiers to the left, and the meeting room is all the way at the back of that.
+![ancient money](./images/chinese-money-sm.jpg)
+
+**special note**: everyone who attends this meetup will get a free (worthless) coin that is a replica of Ching Dynasty money. In the novel I'm writing, a coin just like one of these is the key to preventing
+the end of the world, so I bought a bag of these just for fun. Yours may not prevent the end of the
+world, but then again, if you don't come get one you'll never be entirely sure...
 
 #### Links from our speakers:
 
@@ -45,6 +49,10 @@ The meeting room isn't obvious -- there's a whole other section of the restauran
 
 - from Brent:
     - [Ntellivest.com](https://www.ntellivest.com/)
+
+#### Do You Have A Favorite Book on Money Matters?
+
+If you have a book you like, please [enter it here](https://www.surveymonkey.com/r/BP73BWK)
     
 ___
 
@@ -58,4 +66,4 @@ Our current organizer is [Ron Lunde](mailto:rlunde+pghlh@gmail.com)
 
 ### About
 
-[[About Pittsburgh Life Hackers|about]]
+[About Pittsburgh Life Hackers](about.md)
