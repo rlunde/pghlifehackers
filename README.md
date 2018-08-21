@@ -33,7 +33,8 @@ Meagan, Brynne, and Brent will have short presentations, and will be available t
 The meeting will be in the meeting room at Panera Bread / Penn Center East: 400 Penn Center Boulevard Pittsburgh, PA 15235
 
 ![ancient money](./images/chinese-money-sm.jpg)
-special note: everyone who attends this meetup will get a free (worthless) coin that is a replica of Ching Dynasty money. In the novel I'm writing, a coin just like one of these is the key to preventing
+
+**special note**: everyone who attends this meetup will get a free (worthless) coin that is a replica of Ching Dynasty money. In the novel I'm writing, a coin just like one of these is the key to preventing
 the end of the world, so I bought a bag of these just for fun. Yours may not prevent the end of the
 world, but then again, if you don't come get one you'll never be entirely sure...
 
