@@ -1,12 +1,6 @@
-## Welcome to Pittsburgh Life Hackers
+# August 2018 Meeting: Money Matters
 
-### The Meetup Group
-
-Please join our [Meetup Group](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup/)
-
-___
-
-#### August 2018 Meeting: Money Matters
+## Announcement
 
 - **when**: Wednesday, August 29, 2018 @ 7:30pm EST
 - **where**: Panera Bread, 400 Penn Center Boulevard Pittsburgh, PA 15235
@@ -32,11 +26,7 @@ Meagan, Brynne, and Brent will have short presentations, and will be available t
 
 The meeting will be in the meeting room at Panera Bread / Penn Center East: 400 Penn Center Boulevard Pittsburgh, PA 15235
 
-![ancient money](./images/chinese-money-sm.jpg)
-
-**special note**: everyone who attends this meetup will get a free (and completely worthless) coin that is a replica of Ching Dynasty money. In the novel I'm writing, a coin just like one of these is the key to preventing the end of the world, so I bought a bag of these just for fun.
-
-#### Links from our speakers:
+## Links from our speakers:
 
 - from Meagan:
     - [Disney Mom At Home](http://disneymomathome.com/)
@@ -48,24 +38,22 @@ The meeting will be in the meeting room at Panera Bread / Penn Center East: 400 
 - from Brent:
     - [Ntellivest.com](https://www.ntellivest.com/)
 
-#### Do You Have A Favorite Book on Money Matters?
+## Other Resources
 
-If you have a book you like, please [enter it here](https://www.surveymonkey.com/r/BP73BWK)
+### Websites With Related Books
 
-#### Details, Resources, and Notes for Money Matters
+- [Your Money Or Your Life](https://yourmoneyoryourlife.com/)
+    - [Your Money Or Your Life (book) by Vicki Robin](https://smile.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/)
+- [Your Financial Handbook to Retirement](https://www.tonyrobbins.com/financial-handbook-retirement/)
+    - [MONEY Master the Game: 7 Simple Steps to Financial Freedom (book) by Tony Robbins](https://smile.amazon.com/MONEY-Master-Game-Financial-Freedom-ebook/dp/B00MZAIU4G/)
+    - [Unshakeable: Your Financial Freedom Playbook (book) by Tony Robbins](https://smile.amazon.com/Unshakeable-Your-Financial-Freedom-Playbook-ebook/dp/B01KU08VQE/)
 
-We're keeping track of [resources and notes here](./resources/money_matters.md)
-    
-___
+### Books
 
-### Facebook Page
+- [The Millionaire Next Door: The Surprising Secrets of America's Wealthy, by Thomas J. Stanley](https://smile.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/)
+- [A Random Walk down Wall Street: The Time-tested Strategy for Successful Investing, by Burton Malkiel](https://smile.amazon.com/Random-Walk-Down-Wall-Street/dp/1324002182)
+- [The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel, by Benjamin Graham](https://smile.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
+- [Principles: Life and Work, by Ray Dalio](https://smile.amazon.com/dp/1501124021)
 
-Our Facebook Page is [pghlifehackers](https://www.facebook.com/pghlifehackers/)
 
-### Support or Contact
-
-Our current organizer is [Ron Lunde](mailto:rlunde+pghlh@gmail.com)
-
-### About
-
-[About Pittsburgh Life Hackers](about.md)
+## Notes
