@@ -58,6 +58,11 @@ We're keeping track of [resources and notes here](./resources/money_matters.md)
     
 ___
 
+### Ideas for Upcoming Meetups
+
+We're starting [a list of possible future meetings](./resources/meetup_ideas.md).
+Help us make it better!
+
 ### Facebook Page
 
 Our Facebook Page is [pghlifehackers](https://www.facebook.com/pghlifehackers/)
