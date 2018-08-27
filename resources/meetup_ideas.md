@@ -18,4 +18,4 @@
 ## Got an idea? Have thoughts on any of those?
 
 Please send them to us at: pghlifehackers AT gmail DOT com
-(email spelled like that to try to prevent as much spam)
+(email spelled like that to try to prevent as much spam as possible).
