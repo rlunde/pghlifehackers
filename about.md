@@ -34,8 +34,7 @@ The Pittsburgh Life Hackers Meetup group was originally called the Pittsburgh Se
 
 I was very disappointed. I'd moved to Pittsburgh a couple of years earlier, and thought
 meetups might be a good way to meet interesting people. Since I'm writing a novel currently
-that I call "a self-help thriller" I thought a self-improvement group might give me a chance
-to talk to people about what they thought was cool or interesting.
+that I call "a self-help thriller" I thought a self-improvement group might give me a chance to talk to people about what they thought was cool or interesting.
 
 So I took over as organizer, hoping to eventually find one or two other people who might help with that.
 

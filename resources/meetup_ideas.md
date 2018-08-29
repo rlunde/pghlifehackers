@@ -12,10 +12,14 @@
 - the cauliflower show: making delicious low-carb alternatives
 - all about the ketogenic diet
 - getting started with strength training
+- making your own web site: the basics
+- resume workshop
+- day hikes in the area
+- stretching your food dollars
 
 ...
 
 ## Got an idea? Have thoughts on any of those?
 
 Please send them to us at: pghlifehackers AT gmail DOT com
-(email spelled like that to try to prevent as much spam)
+(email spelled like that to try to prevent as much spam as possible).
