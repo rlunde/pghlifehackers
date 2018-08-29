@@ -12,6 +12,10 @@
 - the cauliflower show: making delicious low-carb alternatives
 - all about the ketogenic diet
 - getting started with strength training
+- making your own web site: the basics
+- resume workshop
+- day hikes in the area
+- stretching your food dollars
 
 ...
 
