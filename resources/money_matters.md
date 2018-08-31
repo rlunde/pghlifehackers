@@ -37,6 +37,7 @@ The meeting will be in the meeting room at Panera Bread / Penn Center East: 400 
 
 - from Brent:
     - [Ntellivest.com](https://www.ntellivest.com/)
+    - [Ntellivest Presentation Handout](./Ntellivest_Presentation_Handout.pdf)
 
 ## Other Resources
 
