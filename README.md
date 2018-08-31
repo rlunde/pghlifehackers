@@ -6,51 +6,21 @@ Please join our [Meetup Group](https://www.meetup.com/Pittsburgh-Life-Hackers-Me
 
 ___
 
-#### August 2018 Meeting: Money Matters
+#### Stay Tuned for September 2018 Meeting: Travel Tips
 
-- **when**: Wednesday, August 29, 2018 @ 7:30pm EST
-- **where**: Panera Bread, 400 Penn Center Boulevard Pittsburgh, PA 15235
-- **signup page**: [Money Matters](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup/events/253206583/)
+We're still in the planning stages for the September meeting, but we'll have one or more experts in to talk about how you can:
 
-Money is important to everyone, but many of us have a complex relationship with it. We'd love to have more of it, and we worry about it a lot, but somehow we still don't get around to learning some simple things we can do about it.
+- find deals and ways to have more fun for less money
+- find places to go that are less crowded, more authentic, and more fun
+- learn what to pack and what to leave at home
+- find places to stay that are exactly what you want
 
-Come to this Month's Life Hackers Meetup to hear some short talks by financial bloggers Meagan Taylor, Brynne Conroy, and Brent Sutherland.
+#### Did you miss our August Meetup, Money Matters?
 
-Sign up here: [Money Matters](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup/events/253206583/)
-
-Meagan will start us off by talking about how she dug her own way out of debt in a very short period of time.
-
-Having struggled with money through her early adult years, Meagan created Disney Mom at Home, which focuses on family finance and tips and tricks for travel, mainly to Disney. Since the majority of her followers are looking for tips and tricks on saving money and getting out of debt, she created FamilyFriendlyFinances.com, which is set to debut mid-August. Everyone has the power to overcome money problems, they just need realistic steps on how to do it!
-
-In addition to blogging, Meagan runs a successful travel agency, Fairytale Journeys by Meagan, and is also a Senior Business Office Manager for a Long Term Care facility. She holds a BA in Journalism from Indiana University of Pennsylvania.
-
-Brynne is the owner, creator and primary content writer over at Femme Frugality. She has been writing about money matters for seven years, and has a book coming out about money management when you're facing oppression this fall. (You can pre-order it from Amazon now: The Feminist Financial Handbook.) Her site has been nominated for industry awards two years running.
-
-Brent Sutherland will speak on achieving financial independence. Brent is a CERTIFIED FINANCIAL PLANNER™ and has worked in financial services for over 12 years. Currently, he owns a personal financial consulting firm, Ntellivest, that works to help individuals think outside the box and better plan for financial independence. He is an early retirement advocate, real estate investor, semi-minimalist, and fried chicken enthusiast.
-
-Meagan, Brynne, and Brent will have short presentations, and will be available to answer your questions afterwards.
-
-The meeting will be in the meeting room at Panera Bread / Penn Center East: 400 Penn Center Boulevard Pittsburgh, PA 15235
-
-![ancient money](./images/chinese-money-sm.jpg)
-
-**special note**: everyone who attends this meetup will get a free (and completely worthless) coin that is a replica of Ching Dynasty money. In the novel I'm writing, a coin just like one of these is the key to preventing the end of the world, so I bought a bag of these just for fun.
-
-#### Links from our speakers:
-
-- from Meagan:
-    - [Disney Mom At Home](http://disneymomathome.com/)
-
-- from Brynne:
-    - [Femme Frugality (blog)](https://femmefrugality.com/)
-    - [Feminist Financial Handbook (pre-order)](https://www.amazon.com/Feminist-Financial-Handbook-Modern-Wealthy-ebook/dp/B07BWKF498)
-
-- from Brent:
-    - [Ntellivest.com](https://www.ntellivest.com/)
-
-#### Do You Have A Favorite Book on Money Matters?
-
-If you have a book you like, please [enter it here](https://www.surveymonkey.com/r/BP73BWK)
+We had a fantastic meeting with 3 really interesting speakers. You can find
+links and resources from our speakers [here](./resources/money_matters.md), including
+a one-page PDF from Brent Sutherland on [Financial Planning for Financial Independence](./resources/Ntellivest_Presentation_Handout.pdf). I will add more links and notes
+over the next few days.
 
 #### Details, Resources, and Notes for Money Matters
 
