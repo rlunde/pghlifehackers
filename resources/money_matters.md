@@ -21,7 +21,7 @@ In addition to blogging, Meagan runs a successful travel agency, Fairytale Journ
 - links from Meagan:
     - [Disney Mom At Home](http://disneymomathome.com/)
 
-Brynee told us some amazing stuff about how she found ways to get a college education without debt, and has a whole lot of resources to help you find financial help. You can find all of the things she talked about right here:
+Brynne told us some amazing stuff about how she found ways to get a college education without debt, and has a whole lot of resources to help you find financial help. You can find all of the things she talked about right here:
 
 - [FemmeFrugality at PGHLifeHackers](https://femmefrugality.com/pghlifehackers/)
 
