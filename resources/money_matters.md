@@ -1,7 +1,5 @@
 # August 2018 Meeting: Money Matters
 
-## Announcement
-
 **Following are notes from the Meetup on**: Wednesday, August 29, 2018
 
 Money is important to everyone, but many of us have a complex relationship with it. We'd love to have more of it, and we worry about it a lot, but somehow we still don't get around to learning some simple things we can do about it.
