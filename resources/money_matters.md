@@ -1,4 +1,4 @@
-# August 2018 Meeting: Money Matters
+### August 2018 Meeting: Money Matters
 
 **Following are notes from the Meetup on**: Wednesday, August 29, 2018
 
@@ -14,7 +14,7 @@ Brent Sutherland spoke on achieving financial independence. Brent is a certified
 
 Meagan told us how she dug her own way out of debt in a very short period of time.
 
-Having struggled with money through her early adult years, Meagan created Disney Mom at Home, which focuses on family finance and tips and tricks for travel, mainly to Disney. Since the majority of her followers are looking for tips and tricks on saving money and getting out of debt, she created FamilyFriendlyFinances.com, which is set to debut mid-August. Everyone has the power to overcome money problems, they just need realistic steps on how to do it!
+Having struggled with money through her early adult years, Meagan created Disney Mom at Home, which focuses on family finance and tips and tricks for travel, mainly to Disney. Since the majority of her followers are looking for tips and tricks on saving money and getting out of debt, she created FamilyFriendlyFinances.com, which is set to debut soon. Everyone has the power to overcome money problems, they just need realistic steps on how to do it!
 
 In addition to blogging, Meagan runs a successful travel agency, Fairytale Journeys by Meagan, and is also a Senior Business Office Manager for a Long Term Care facility. She holds a BA in Journalism from Indiana University of Pennsylvania.
 
