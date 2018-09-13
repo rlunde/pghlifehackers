@@ -6,14 +6,13 @@ Please join our [Meetup Group](https://www.meetup.com/Pittsburgh-Life-Hackers-Me
 
 ___
 
-#### Stay Tuned for September 2018 Meeting: Travel Tips
+#### Our September 2018 Meetup is scheduled!
 
-We're still in the planning stages for the September meeting, but we'll have one or more experts in to talk about how you can:
+Travel Expert Tammy King Shares Her Tips for Travel
 
-- find deals and ways to have more fun for less money
-- find places to go that are less crowded, more authentic, and more fun
-- learn what to pack and what to leave at home
-- find places to stay that are exactly what you want
+**Date**: Tuesday, September 25, 2018
+**Place**: Panera Bread (Conference Room), 5430 Centre Ave, Pittsburgh, PA 15232
+**Details**: [see the meeting page here](./resources/travel.md)
 
 #### Did you miss our August Meetup, Money Matters?
 
