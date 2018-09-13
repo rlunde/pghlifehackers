@@ -8,7 +8,7 @@ ___
 
 #### Our September 2018 Meetup is scheduled!
 
-Travel Expert Tammy King Shares Her Tips for Travel
+##### Travel Expert Tammy King Shares Her Tips for Travel
 
 **Date**: Tuesday, September 25, 2018
 **Place**: Panera Bread (Conference Room), 5430 Centre Ave, Pittsburgh, PA 15232
