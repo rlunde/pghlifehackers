@@ -37,13 +37,15 @@ We're looking forward to a great discussion -- I hope you can make it!
 
 ### Books
 
-__References coming soon__
+- [50 States, 5,000 Ideas: Where to Go, When to Go, What to See, What to Do](https://www.amazon.com/50-States-000-Ideas-Where/dp/1426216904/ref=zg_bs_27_10)
+- [Rick Steves](https://www.amazon.com/Rick-Steves/e/B000APF02I/ref=dp_byline_cont_book_1)
+- [The Lonely Planet](https://www.amazon.com/Lonely-Planet/e/B00M9Y0CHQ/ref=dp_byline_cont_ebooks_1)
 
 ## Notes
 
 
 ___
 ## Links
-Back to home page: [pghlifehackers.com](https://pghlifehackers.com)
-The meetup group: [Pittsburgh Life Hackers](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup)
-Our Facebook Page is [pghlifehackers](https://www.facebook.com/pghlifehackers/)
+- Back to home page: [pghlifehackers.com](https://pghlifehackers.com)
+- The meetup group: [Pittsburgh Life Hackers](https://www.meetup.com/Pittsburgh-Life-Hackers-Meetup)
+- Our Facebook Page is [pghlifehackers](https://www.facebook.com/pghlifehackers/)
