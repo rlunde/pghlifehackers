@@ -10,9 +10,9 @@ ___
 
 ##### Travel Expert Tammy King Shares Her Tips for Travel
 
-**Date**: Tuesday, September 25, 2018
-**Place**: Panera Bread (Conference Room), 5430 Centre Ave, Pittsburgh, PA 15232
-**Details**: [see the meeting page here](./resources/travel.md)
+- **Date**: Tuesday, September 25, 2018
+- **Place**: Panera Bread (Conference Room), 5430 Centre Ave, Pittsburgh, PA 15232
+- **Details**: [see the meeting page here](./resources/travel.md)
 
 #### Did you miss our August Meetup, Money Matters?
 
