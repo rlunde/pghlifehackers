@@ -10,6 +10,8 @@ ___
 
 ##### Happy Trails
 
+Our next meetup is all about how to use your vacation time and travel money wisely, to have more fun and fewer regrets.
+
 - **Date**: Tuesday, September 25, 2018
 - **Time**: 7:30pm to 8:30pm
 - **Place**: Panera Bread (Conference Room), 5430 Centre Ave, Pittsburgh, PA 15232
