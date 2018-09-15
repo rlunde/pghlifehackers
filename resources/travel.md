@@ -25,7 +25,7 @@ It'll be a fun chat, and may even inspire you to run off without your handkerchi
 
 The meeting will be 7:30pm--8:30pm on Tuesday, September 25, at Panera Bread on Centre avenue: 5430 Centre Ave, Pittsburgh, PA 15232
 
-This Panera is easy to reach and has free parking. The meeting room is in a back section of the restaurant that is behind the cashiers to the left, and then all the way at the back of that.
+This Panera is easy to reach and has free parking. The meeting room is in a back section of the restaurant that is behind the cashiers to the left.
 
 We're looking forward to a great discussion -- I hope you can make it!
 
